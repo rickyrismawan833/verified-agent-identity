@@ -6,7 +6,7 @@ on:
       agent_name:
         description: 'btclassic'
         required: true
-        default: 'lokie'
+        default: 'btclassic'
       agent_description:
         description: 'btclassic'
         required: true
